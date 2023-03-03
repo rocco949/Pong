@@ -1,2 +1,2 @@
 # Pong
-my version of pong using lua and love2d
+recreated gs50's pong
